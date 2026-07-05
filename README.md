@@ -1,3 +1,4 @@
+<font color="#00ff00">在使用本脚本前，请先安装pandas：pip install pandas</font>
 请先将从官网下载的投档表的名字改为“submit.xls”并将其和auto.py放在同一个文件夹中  
 在运行代码前，请先下载安装pandas库
 注意：格式按照2024年投档表定制，由于每年官网的文件格式不清楚，可能需要后期修改代码
